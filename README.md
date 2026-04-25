@@ -80,6 +80,7 @@
       <td align="center">
         <b>LeetCode</b><br>
         <img src="https://leetcard.jacoblin.cool/shubhamjadhav60721?theme=dark&font=Baloo%202&ext=heatmap" height="250" alt="LeetCode Stats" />
+
       </td>
       <td align="center">
         <b>GeeksforGeeks</b><br>
@@ -90,6 +91,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
