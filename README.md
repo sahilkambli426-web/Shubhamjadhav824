@@ -72,24 +72,22 @@
 
 ---
 
+
 ## 🏅 Competitive Programming
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>LeetCode</b><br>
-        <img src="https://leetcard.jacoblin.cool/shubhamjadhav60721?theme=dark&font=Baloo%202&ext=heatmap" height="250" alt="LeetCode Stats" />
-      </td>
-      <td align="center">
-        <b>GeeksforGeeks</b><br>
-        <a href="https://www.geeksforgeeks.org/user/shubhamjadj35j/">
-          <img src="https://gfgstatscard.vercel.app/shubhamjadj35j" alt="GeeksforGeeks Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+
+<a href="https://github.com/Sahilkambli2004">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkambli2004&show_icons=true&theme=tokyonight" height="180"/>
+</a>
+
+<a href="https://github.com/Sahilkambli2004">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahilkambli2004&theme=tokyonight&no-frame=true&row=1&column=6" height="180"/>
+</a>
+
+</p>
+
+
 
 ---
 
